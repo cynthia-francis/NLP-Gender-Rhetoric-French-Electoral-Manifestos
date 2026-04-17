@@ -1,0 +1,9 @@
+# Data and heavy files
+data/
+metadata/
+*.parquet
+*.csv
+*.zip
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
